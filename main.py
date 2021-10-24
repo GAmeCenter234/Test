@@ -1,4 +1,3 @@
-from time import strftime
 import eel
 import pyowm
 
